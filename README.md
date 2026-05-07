@@ -1,6 +1,6 @@
 # LinkDiscoveryWindows
 Portable, driverless CDP/LLDP discovery tool for Windows 10/11. Identify switch ports instantly using windows-native pktmon.
-
+Administrator privileges needed!
 
 Many IT professionals rely on legacy tools like LDWin to identify which switch port a laptop is plugged into.
 However it does not work for Windows 11! (if updated from 10 to 11 it might work)
